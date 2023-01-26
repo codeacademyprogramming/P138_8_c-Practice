@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d89b045d-136d-4134-9823-455ee0240b25": {
+      "ProjectGuid": "d89b045d-136d-4134-9823-455ee0240b25",
+      "DisplayName": "Tasks",
+      "ColorIndex": 0
+    },
+    "ba8c043c-8cbb-44ee-b687-2042154b0475": {
+      "ProjectGuid": "ba8c043c-8cbb-44ee-b687-2042154b0475",
+      "DisplayName": "Homeworks",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
